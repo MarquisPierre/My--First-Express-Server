@@ -1,0 +1,15 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "I'm creating my first server!!",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marquis Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pstree.remy": "^1.1.0"
+  }
+}
